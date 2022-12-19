@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Rest API and MongoDB**
 
-- 👯 I’m looking to collaborate on **Express**
+- 👯 I’m looking to collaborate on **Linkedin**
 
 - 🤝 I’m looking for help with **Full Stack Developer**
 
