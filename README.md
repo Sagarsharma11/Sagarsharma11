@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sagar Sharma</h1>
 <h3 align="center">A passionate Software engineer from India</h3>
-<img src="https://raw.githubusercontent.com/Sagarsharma11/redux/redux/public/j.png" alt="git" width="100%" height="250"/>
+<img src="https://user-images.githubusercontent.com/70385488/147853861-a67c8643-ff0f-451c-943f-db4e5589e4ee.png" alt="git" width="100%" height="250"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sagarsharma11&label=Profile%20views&color=0e75b6&style=flat" alt="Sagar Sharma" /> </p>
 
