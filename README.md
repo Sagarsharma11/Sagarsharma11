@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sagar Sharma</h1>
 <h3 align="center">A passionate Software engineer from India</h3>
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+</a>
 <img src="https://user-images.githubusercontent.com/70385488/147853861-a67c8643-ff0f-451c-943f-db4e5589e4ee.png" alt="git" width="100%" height="250"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sagarsharma11&label=Profile%20views&color=0e75b6&style=flat" alt="Sagar Sharma" /> </p>
