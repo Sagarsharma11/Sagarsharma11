@@ -1,4 +1,4 @@
-<h1 style="color:red" align="center">Hi 👋, I'm Sagar Sharma</h1>
+<h1 align="center">Hi 👋, I'm Sagar Sharma</h1>
 <h3 align="center">A passionate frontend developer from India , (React and NodeJs)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarsharma11&label=Profile%20views&color=0e75b6&style=flat" alt="sagarsharma11" /> </p>
