@@ -1,21 +1,22 @@
+
 <h1 align="center">Hi 👋, I'm Sagar Sharma</h1>
-<h3 align="center">A passionate frontend developer from India , (React and NodeJs)</h3>
+<h3 align="center">A dedicated Full Stack Developer from India with a focus on SaaS solutions and modern technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarsharma11&label=Profile%20views&color=0e75b6&style=flat" alt="sagarsharma11" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarsharma11" alt="sagarsharma11" /></a> </p>
 
-- 🔭 I’m currently working on **ReactJS and NodeJS**
+- 🔭 I’m currently working on **SaaS products, microservices, Kafka, GraphQL, PostgreSQL, Docker, and AWS**
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning **Advanced Next.js and exploring more about serverless architectures**
 
-- 👯 I’m looking to collaborate on **Linkedin**
+- 👯 I’m looking to collaborate on **Innovative SaaS solutions and open-source projects**
 
-- 🤝 I’m looking for help with **Full Stack Developer**
+- 🤝 I’m looking for help with **Scaling microservices and optimizing cloud infrastructure**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sagarsharma11?tab=repositories](https://github.com/Sagarsharma11?tab=repositories)
 
-- 💬 Ask me about **React Js, Node Js**
+- 💬 Ask me about **React.js, Node.js, microservices, Kafka, GraphQL, PostgreSQL, Docker, and AWS**
 
 - 📫 How to reach me **sagarsharmatech00@gmail.com**
 
